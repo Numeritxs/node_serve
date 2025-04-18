@@ -1,0 +1,1 @@
+docker run -d -p 8080:3000 --name node_serve numeritos/node_serve
